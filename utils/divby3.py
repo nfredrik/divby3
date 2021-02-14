@@ -1,6 +1,5 @@
- pyexample/utils/pi.py
+# pyexample/utils/pi.py
 import math
-
 
 def get_pi_digit(n):
     digits = list(str(math.pi))
